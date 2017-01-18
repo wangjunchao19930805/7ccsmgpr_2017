@@ -35,7 +35,6 @@
 1657587/1	Alobaid, Khalid Abdulrah	khalid_abdulrahman_m.alobaid@kcl.ac.uk	Current	Advanced Software Engineering	
 1659191/1	Avula, Tharuni Priya	tharuni.avula@kcl.ac.uk	Current	Advanced Software Engineering With Management	
 1661609/1	Ranjan, Yatharth	yatharth.ranjan@kcl.ac.uk	Current	Intelligent Systems	
-1662486/1	Aljasem, Dalal	dalal.aljasem@kcl.ac.uk	Current	Intelligent Systems	
 1663618/2	Kousidis, Spyridon	spyridon.kousidis@kcl.ac.uk	Current	Computing And Security	
 1663661/1	Tyagi, Vashu	vashu.tyagi@kcl.ac.uk	Current	Computing And Internet Systems	
 1663907/1	Akyol, Aydin	aydin.akyol@kcl.ac.uk	Current	Advanced Software Engineering	
